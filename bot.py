@@ -10,7 +10,7 @@ import random
 
 print("")
 print("УСПЕШНО")
-print("Бот запущен!) 
+print("Бот запущен!") 
 
 app = Client("my_account")
  
